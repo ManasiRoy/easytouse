@@ -1,0 +1,17 @@
+.ratingLi {
+  margin: 0 5px;
+  padding: 10px;
+  color: #000;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+form {
+  display: flex;
+  justify-content: center;
+}
+form textarea {
+  resize: none;
+}
+.error {
+  border: 1px solid red;
+  background-color: #fdd;
+}
